@@ -1,0 +1,4 @@
+Important Note:
+
+•	Place "Tesseract-OCR"  folder  in  "C:\Program Files\"   before running project.
+•	Make sure you’re connected to internet (this application uses internet).
